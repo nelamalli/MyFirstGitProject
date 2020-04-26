@@ -8,6 +8,6 @@ def main():
 
     m= personBehavior()
     a = m.f
-    print(type(a))
+    print(m.f())
 
 main()
